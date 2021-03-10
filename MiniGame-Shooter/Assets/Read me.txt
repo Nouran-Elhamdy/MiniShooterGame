@@ -1,0 +1,20 @@
+
+Player Inputs:
+--------------
+- WASD || Arrows to move
+- Mouse Left click to shoot bullets
+- Mouse Right click to fire projectile
+
+Player Attack
+-------------
+- Shooting normal
+- Fired as projectile
+
+Enemy Behavior
+--------------
+- Will follow or jump within the required range 
+- You can reset time to spawn enemy again
+
+Environment
+-----------
+- You can setup the size of the environment (*from unity not json file)
